@@ -1,2 +1,2 @@
-# slides
-Un répertoire de diapos
+# Quelques notebooks Jupyter
+Pour se faire la main.
