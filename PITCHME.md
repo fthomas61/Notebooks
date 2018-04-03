@@ -15,16 +15,24 @@ A repository of notebooks
 
 ### La fonction print()
 
+#HSLIDE
+
 ### Les variables
+
+#HSLIDE
 
 ### Calcul de périmètre
 
 - Application à un problème simple
 - $p = 2*(L+l)$
 
+#HSLIDE
+
 ### Calcul de périmètre avec une conversion
 
 - Plus de variables
+
+#HSLIDE
 
 ### Premier algorithme... premiers calculs itératifs, premiers tests
 
