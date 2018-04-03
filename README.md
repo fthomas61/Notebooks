@@ -1,2 +1,2 @@
 # Quelques notebooks Jupyter
-Pour se faire la main.
+Premiers pas, oops enroulements, pour découvrir les variables, fonctions, boucles et tests logiques.
