@@ -40,6 +40,8 @@ A repository of notebooks
 - de l'importance de l'indentation
 - if n%i == 0:
 
+#HSLIDE
+
 ### Algorithme
 
 ``̀`
