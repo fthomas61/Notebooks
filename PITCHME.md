@@ -42,8 +42,7 @@ A repository of notebooks
 
 ### Algorithme
 
-`̀`̀
-
+``̀`
 n = int(input("Entrez le nombre dont on veut tester la primalité : "))
 
 isPrime = True      # isPrime est une variable de type booléen (True/False)
@@ -59,8 +58,7 @@ if isPrime:
 else:
     print("Nope.",n,"is not prime. Try again.")
 
-`̀`̀
-
+``̀`
 
 #HSLIDE
 
