@@ -44,8 +44,11 @@ A repository of notebooks
 
 ### Algorithme
 
-@[1, 3, 4, 5-9]
 ---?code=prime.py&lang=python
+@[1](Lecture de la valeur de n)
+@[3](Initialisation de la variable isPrime)
+@[4](Pour i allant de 2 à n exclu)
+@[5-9](Le calcul pour un i quelconque)
 
 #HSLIDE
 
