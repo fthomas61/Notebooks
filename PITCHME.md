@@ -29,6 +29,10 @@ x = 1.6
 nomPersonne = "Homer Simpson"
 success = False
 ```
+@[1](Variable de type entier - integer)
+@[2](Variable de type réel - float)
+@[3](Variable de type chaine de caractères - string)
+@[4](Variable de type booléen - boolean)
 
 #HSLIDE
 
@@ -43,9 +47,21 @@ success = False
 
 - Plus de variables
 
+```python
+metersPerYard = 0.9144 # Facteur de conversion
+longueur = float(input("Entrez la longueur du rectangle (en m) : "))
+largeur = float(input("Entrez la largeur du rectangle (en m) : "))
+perimetre = 2 * (longueur + largeur)
+print("Le périmètre est",perimetre,"m")
+perimetreYards = perimetre / metersPerYard
+print("which is",perimetreYards,"yards")
+```
+
 #HSLIDE
 
 ### Premier algorithme... premiers calculs itératifs, premiers tests
+
+Nous allons implémenter un algorithme permettant de tester la primalité d'un nombre. Le premier algorithme auquel on peut penser est le suivant : on prend un nombre n et on fait la division entière de n par tous les nombres compris entre 2 et n-1. Si le reste de la division entière est nul pour au moins un de ces nombres alors le nombre n n'est pas premier. Pourquoi éviter 1 et n ? Parce que tout nombre est divisible par 1 et par n. C'est s'il n'est justement divisible que par ces deux là qu'il est premier.
 
 #HSLIDE
 
