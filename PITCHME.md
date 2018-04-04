@@ -76,4 +76,7 @@ Test de primalité. Un algorithme possible (et très sub-optimal) : on prend un 
 
 #HSLIDE
 
-<!--- ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png) --->
+### Quelques références pour aller plus loin
+
+![Les nombres premiers](https://fr.wikipedia.org/wiki/Nombre_premier)
+![Les tests de primalité](https://fr.wikipedia.org/wiki/Test_de_primalit%C3%A9)
