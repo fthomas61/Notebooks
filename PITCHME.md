@@ -62,7 +62,7 @@ print("which is",perimetreYards,"yards")
 
 ### Premier algorithme... premiers calculs itératifs, premiers tests
 
-Nous allons implémenter un algorithme permettant de tester la primalité d'un nombre. Le premier algorithme auquel on peut penser est le suivant : on prend un nombre n et on fait la division entière de n par tous les nombres compris entre 2 et n-1. Si le reste de la division entière est nul pour au moins un de ces nombres alors le nombre n n'est pas premier. Pourquoi éviter 1 et n ? Parce que tout nombre est divisible par 1 et par n. C'est s'il n'est justement divisible que par ces deux là qu'il est premier.
+Nous allons implémenter un algorithme permettant de tester la primalité d'un nombre. Le premier algorithme auquel on peut penser est le suivant : on prend un nombre n et on fait la division entière de n par tous les nombres compris entre 2 et n-1. Si le reste de la division entière est nul pour au moins un de ces nombres alors le nombre n n'est pas premier. Pourquoi éviter 1 et n ? Parce que tout nombre est divisible par 1 et par lui-même. C'est s'il n'est justement divisible que par ces deux là qu'il est premier.
 
 #HSLIDE
 
