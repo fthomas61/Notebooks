@@ -1,3 +1,4 @@
 theme-override : assets/css/PITCHME.css
 highlight : monokai
 slide-number: true
+layout : center-left
