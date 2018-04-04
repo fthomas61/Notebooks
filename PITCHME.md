@@ -23,7 +23,7 @@ print("Ceci","puis cela")
 
 ### Les variables
 
-`̀``python
+```python
 v1 = 2
 x = 1.6
 nomPersonne = "Homer Simpson"
