@@ -36,10 +36,6 @@ A repository of notebooks
 
 ### Premier algorithme... premiers calculs itératifs, premiers tests
 
-- for i in range(2,n-1):
-- de l'importance de l'indentation
-- if n%i == 0:
-
 #HSLIDE
 
 ### Algorithme
@@ -52,4 +48,4 @@ A repository of notebooks
 
 #HSLIDE
 
-<!-- ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png) -->
+<!--- ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png) --->
