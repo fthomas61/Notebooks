@@ -44,6 +44,7 @@ A repository of notebooks
 
 ### Algorithme
 
+@[1, 3, 4, 5-9]
 ---?code=prime.py&lang=python
 
 #HSLIDE
