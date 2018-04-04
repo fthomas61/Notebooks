@@ -39,7 +39,7 @@ success = False
 ### Calcul de périmètre
 
 - Application à un problème simple
-- $$p = 2*(L+l)$$
+- `$$p = 2*(L+l)$$`
 
 #HSLIDE
 
