@@ -15,16 +15,27 @@ A repository of notebooks
 
 ### La fonction print()
 
+```python
+print("Ceci","puis cela")
+```
+
 #HSLIDE
 
 ### Les variables
+
+`̀``python
+v1 = 2
+x = 1.6
+nomPersonne = "Homer Simpson"
+success = False
+```
 
 #HSLIDE
 
 ### Calcul de périmètre
 
 - Application à un problème simple
-- $p = 2*(L+l)$
+- p = 2*(L+l)
 
 #HSLIDE
 
