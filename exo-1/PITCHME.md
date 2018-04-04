@@ -81,3 +81,5 @@ Test de primalité. Un algorithme possible (et très sub-optimal) : on prend un 
 [Les nombres premiers](https://fr.wikipedia.org/wiki/Nombre_premier)
 <br>
 [Les tests de primalité](https://fr.wikipedia.org/wiki/Test_de_primalit%C3%A9)
+<br>
+[Le crible d'Eratosthène](https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne)
