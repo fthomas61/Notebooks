@@ -18,7 +18,7 @@ A repository of notebooks
 - ensemble de données
 - l'accès à chaque élément se fait via la position de cet élément
 - les positions commencent à 0
-- les éléments de la liste sont inclus entre [ et ] et sont sépares par des virgules
+- les éléments de la liste sont inclus entre [ et ] et sont séparés par des virgules
 
 ```python
 l = [10,20,30,40]
@@ -46,7 +46,7 @@ for e in l:
 ### Les tuples
 
 - comme des listes mais non modifiables (immutable)
-- les éléments du tuple sont inclus entre ( et ) et sont sépares par des virgules
+- les éléments du tuple sont inclus entre ( et ) et sont séparés par des virgules
 
 ```python
 t = (10,20,30,40)
