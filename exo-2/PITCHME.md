@@ -97,6 +97,27 @@ vide = pairs & impairs
 
 #HSLIDE
 
+### L'oracle a parlé
+
+```python
+import random
+l = ["Arthur J","Aurélien","Jeanne L.","Sofia","Marine L",
+     "Jeanne C","Marine C","Théo P.","Amadou","Steve",
+     "Théo Lai.","Arthur A.","Salimata","Guillaume",
+     "Victor D.","Victor C."]
+
+print("Vous êtes",len(l))
+
+i = random.randint(0,len(l)-1)
+print("L'oracle a décidé. Ce sera",l[i],": numéro",i)
+```
+@[1](import des fonctions de calcul aléatoire)
+@[2-5](Création de la liste des personnes)
+@[9](Tirage aléatoire du numéro de la personne)
+@[10](On utilise le numéro pour retrouver le nom de la personne dans la liste)
+
+#HSLIDE
+
 ### Quelques références pour aller plus loin
 
 [A whirlwind tour of Python, le livre](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
