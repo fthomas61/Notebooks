@@ -87,7 +87,7 @@ print("le score est de",d.somme())
 d.lance()
 print("quel lancer !",d.affiche())
 ```
-@[2](Création d'un objet "des" à 3 dés chacun à 6 faces. La fonction __init__ va être appelée)
+@[2](Création d'un objet "des" contenant 3 dés à 6 faces. La fonction __init__ va être appelée)
 @[3-9](On peut faire "travailler" ce jeu de dés)
 
 #HSLIDE
