@@ -7,3 +7,4 @@
 - exo-5 : Travail avec des nombres aléatoires, des accumulateurs et des listes
 - exo-6 : Travail avec des nombres aléatoires, des accumulateurs et plus de tests logiques
 - exo-7 : Travail de statistiques
+- exo-8 : Programmation orientée objet
