@@ -49,5 +49,5 @@ print("La vraie solution est",math.sqrt(3.0))
 @[12](On va faire 10 itérations)
 @[13](On met à jour l'estimation de la solution)
 @[15](Affichage de la solution obtenue par la méthode de Newton-Raphson)
-@[16](Affichade la la solution "exacte" $sqrt(3)$)
+@[16](Affichage la la solution "exacte" $sqrt(3)$)
 
