@@ -9,6 +9,9 @@ A repository of notebooks
 Petit exercice sur la reconnaissance de caractères ou OCR
 (Optical Character Recognition) dans la langue de Shakespeare.
 
+Cet exemple nécessite l'installation de pas mal de modules
+externes (OpenCV, tesseract, etc).
+
 #HSLIDE
 
 ### Le pitch
