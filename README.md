@@ -8,3 +8,6 @@
 - exo-6 : Travail avec des nombres aléatoires, des accumulateurs et plus de tests logiques
 - exo-7 : Travail de statistiques
 - exo-8 : Programmation orientée objet
+- exo-9 : Résolution d'équations par la méthode de dichotomie
+- exo-10 : Résolution d'équations par la méthode de Newton-Raphson
+- exo-11 : Voyage en Syldavie
