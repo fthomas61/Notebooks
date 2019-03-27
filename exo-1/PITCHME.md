@@ -68,7 +68,7 @@ Test de primalité. Un algorithme possible (et très sub-optimal) : on prend un 
 
 ### Algorithme
 
----?code=prime.py&lang=python
+---?code=exo-1/prime.py&lang=python
 @[1](Lecture de la valeur de n)
 @[3](Initialisation de la variable isPrime)
 @[4](Pour i allant de 2 à n exclu)
